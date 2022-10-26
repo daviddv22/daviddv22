@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- -->
  
  # 💫 About Me:
 Hello, I am a Software Engineer with a passion for Design and Economics. Shoot me an email or add me on LinkedIn.
